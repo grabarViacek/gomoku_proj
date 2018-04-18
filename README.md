@@ -1,0 +1,2 @@
+# gomoku_proj
+Гомоку
